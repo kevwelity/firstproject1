@@ -1,0 +1,136 @@
+.imm{
+    position: relative;
+    width: 100%;
+}
+.firstside{
+color: white;
+}
+.header{
+     position: absolute;
+     top: 5px;
+     left: 50px;
+     display: flex;
+     color: rgb(10, 210, 10);
+     font-size: larger;
+}
+.header2{
+    position: absolute;
+     top: 35px;
+     left: 500px;
+     display: flex;
+     justify-content: space-around;
+     width: 30%;
+     font-size: large;
+}
+.button{
+    position: absolute;
+    top: 35px;
+    right: 100px;
+}
+.tupichead{
+    position: absolute;
+    top: 120px;
+    left: 50px;
+    display: flex;
+    font-size: xx-large;
+}
+.imm2{
+    position: absolute;
+    top: 95px;
+    right: 100px;
+}
+.layhead{
+    position: absolute;
+    top: 320px;
+    left: 50px;
+    display: flex;
+}
+.barmain{
+    position: absolute;
+    top: 450px;
+    left: 50px;
+    display: flex;
+    background-color: green;
+    
+}.bar{
+    width: 350px;
+    height: 30px;
+}
+.bar1{
+    width: 150px;
+    background-color: green;
+}
+.second1{
+    position: absolute;
+    top: 660px;
+    left: 130px;
+    display: flex;
+    font-size: x-large;
+    color: black;
+}
+.second2{
+    position: absolute;
+    top: 740px;
+    left: 130px;
+}
+.second3{
+    left: 130px;
+    color: black;
+    font-size: x-large;
+}
+.third{
+    display: flex;
+    justify-content: space-around;
+}
+
+.a1{
+    background-color: rgb(241, 239, 237);
+    left: 130px;
+}
+
+.a2{
+    background-color: rgb(241, 239, 237);
+}
+
+.a3{
+    background-color: rgb(241, 239, 237);
+}
+
+.a4{
+    background-color: rgb(241, 239, 237);
+}
+p:hover{
+    background-color: rgb(200, 248, 200);
+    opacity: 1;
+}
+.third1{
+    justify-content: space-around;
+    display: flex;
+    color: black;
+    font-size: xx-large;
+}
+.third2{
+    justify-content: center;
+    display: flex;
+    color: rgb(22, 213, 22);
+    font-size: x-large
+}
+.third3{
+    justify-content: center;
+    display: flex;
+    color: white;
+    font-size: xx-large
+}
+.third4{
+    justify-content: center;
+    display: flex;
+}
+div .sellfold{
+    background-color: rgb(1, 33, 1);
+}
+.third5{
+    display: flex;
+}
+.third6{
+    left: 100px;
+}
